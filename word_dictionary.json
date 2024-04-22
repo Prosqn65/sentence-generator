@@ -1,0 +1,6 @@
+{
+  "noun": ["apple", "banana", "cat", "dog", "elephant", "house", "car", "tree", "mountain", "river", "bird", "flower", "sun", "moon", "star", "ocean", "book", "pen", "computer", "phone", "friend", "family", "love", "world", "time", "money", "music", "movie", "city", "school"],
+  "verb": ["is", "runs", "jumps", "eats", "sleeps", "laughs", "drinks", "reads", "writes", "swims", "flies", "sings", "dances", "talks", "listens", "learns", "teaches", "plays", "works", "travels", "dreams", "thinks", "believes", "hopes", "cries", "smiles", "fights", "helps", "grows", "changes", "wins"],
+  "adjective": ["big", "small", "happy", "sad", "funny", "beautiful", "ugly", "fast", "slow", "smart", "kind", "brave", "clever", "friendly", "loyal", "honest", "generous", "patient", "wise", "creative", "exciting", "mysterious", "peaceful", "powerful", "rich", "poor", "successful", "famous", "popular"],
+  "adverb": ["quickly", "slowly", "happily", "sadly", "loudly", "quietly", "gracefully", "awkwardly", "carefully", "recklessly", "well", "badly", "hard", "soft", "suddenly", "gradually", "always", "never", "sometimes", "usually", "often", "rarely", "really", "truly", "actually", "even", "almost", "totally", "completely", "definitely"]
+}
