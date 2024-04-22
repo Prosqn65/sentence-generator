@@ -35,7 +35,7 @@ def main():
         all_sentences.append(sentence)
 
     all_sentences_row = '. '.join(all_sentences)
-    print(all_sentences_row)
+    print(all_sentences_row+".")
 
 if __name__ == "__main__":
     main()
